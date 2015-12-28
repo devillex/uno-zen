@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES="*.hbs *.md *.html assets/css/uno-zen.css assets/js/uno-zen.js assets/fonts/ assets/img/"
+FILES="*.hbs *.md *.html partials/ assets/js/uno-zen.js assets/css/uno-zen.css assets/fonts/ assets/img/"
 OUTPUT="uno-zen"
 
 if [ $# -eq 0 ]; then

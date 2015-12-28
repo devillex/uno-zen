@@ -5,3 +5,4 @@ node_modules/
 assets/vendor
 assets/scss/bourbon
 assets/js/uno-zen.js
+*.zip
