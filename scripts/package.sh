@@ -6,7 +6,7 @@ OUTPUT="uno-zen"
 if [ $# -eq 0 ]; then
     echo No argument supplied, using default as archive name.
 else
-	echo No argument supplied, using that as archive name.
+	echo Argument supplied, using that as archive name.
 	OUTPUT=$1
 fi
 
