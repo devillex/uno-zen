@@ -1,7 +1,60 @@
+<a name="2.6.7"></a>
+## 2.6.7 (2015-12-28)
+
+
+* Fix #151 ([b4337d1](https://github.com/kikobeats/uno-zen/commit/b4337d1)), closes [#151](https://github.com/kikobeats/uno-zen/issues/151)
+
+
+
+<a name="2.6.6"></a>
+## 2.6.6 (2015-12-26)
+
+
+* 2.6.6 releases ([ed1553a](https://github.com/kikobeats/uno-zen/commit/ed1553a))
+* Removed wait for DOM ([6f5e8f2](https://github.com/kikobeats/uno-zen/commit/6f5e8f2))
+* Update to include inline version ([9c9e757](https://github.com/kikobeats/uno-zen/commit/9c9e757))
+
+
+
+<a name="2.6.5"></a>
+## 2.6.5 (2015-12-22)
+
+
+* _mixins.scss doesn't exist.  The variables $cover-primary and $cover-secondary are in _variables.scs ([f4ac947](https://github.com/kikobeats/uno-zen/commit/f4ac947))
+* 2.6.5 releases ([06cf240](https://github.com/kikobeats/uno-zen/commit/06cf240))
+* Fix timeAgo function ([398e691](https://github.com/kikobeats/uno-zen/commit/398e691))
+* Merge pull request #146 from alexlovescoding/patch-1 ([49ae326](https://github.com/kikobeats/uno-zen/commit/49ae326))
+* Remove twemoji ([161bd5c](https://github.com/kikobeats/uno-zen/commit/161bd5c))
+* Update DOCUMENTATION.md ([04f89a1](https://github.com/kikobeats/uno-zen/commit/04f89a1))
+
+
+
+<a name="2.6.4"></a>
+## 2.6.4 (2015-12-16)
+
+
+* 2.6.4 releases ([09500d9](https://github.com/kikobeats/uno-zen/commit/09500d9))
+* 2.6.4 releases ([3662203](https://github.com/kikobeats/uno-zen/commit/3662203))
+
+
+
+<a name="2.6.3"></a>
+## 2.6.3 (2015-12-13)
+
+
+* 2.6.3 releases ([51476d9](https://github.com/kikobeats/uno-zen/commit/51476d9))
+* Add mail template ([c70fe70](https://github.com/kikobeats/uno-zen/commit/c70fe70))
+* Add Zepto as recommendation (#144) ([03b3d61](https://github.com/kikobeats/uno-zen/commit/03b3d61))
+* Fix #140 ([191ac93](https://github.com/kikobeats/uno-zen/commit/191ac93)), closes [#140](https://github.com/kikobeats/uno-zen/issues/140)
+* Update DOCUMENTATION.md ([f308683](https://github.com/kikobeats/uno-zen/commit/f308683))
+
+
+
 <a name="2.6.2"></a>
 ## 2.6.2 (2015-12-10)
 
 
+* 2.6.2 releases ([20c2774](https://github.com/kikobeats/uno-zen/commit/20c2774))
 * added prism ([c1a2371](https://github.com/kikobeats/uno-zen/commit/c1a2371))
 * Adjust margins and deleted duplicated rules ([2c081fe](https://github.com/kikobeats/uno-zen/commit/2c081fe))
 
