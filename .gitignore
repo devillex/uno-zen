@@ -4,5 +4,6 @@ node_modules/
 .sass-cache/
 assets/vendor
 assets/scss/bourbon
-assets/js/uno-zen.js
+assets/js
+assets/css
 *.zip
