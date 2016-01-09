@@ -1,6 +1,7 @@
 # Uno Zen for Ghost
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/uno-zen.svg?style=flat-square)
+[![Build Status](http://img.shields.io/travis/Kikobeats/uno-zen/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/uno-zen)
 ![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
 ![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
@@ -18,6 +19,7 @@
     + [Receive a mail notification when a new version is available](#receive-a-mail-notification-when-a-new-version-is-available)
   * [Development and Customization](#development-and-customization)
   * [Showcase](#showcase)
+  * [Related](#related)
   * [License](#license)
 
 ---
@@ -53,7 +55,9 @@ Enter the theme folder (`content/themes`) of your Ghost installation and paste t
 $ curl -sSL http://git.io/vcIHr | sh
 ```
 
-**NOTE:** This theme needs a DOM selector library. The library is not provided by the theme. Instead, you need to inject from the `Blog Footer` in the `Code injection` of your Ghost installation:
+## Setup
+
+This theme needs a DOM selector library. The library is not provided by the theme. Instead, you need to inject from the `Blog Footer` in the `Code injection` of your Ghost installation:
 
 ```html
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -97,7 +101,7 @@ Stay tuned for new releases with this [IFTTT recipe](https://ifttt.com/recipes):
 
 ## Development and Customization
 
-See in [documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENTATION.md).
+See in [Documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENTATION.md).
 
 ## Showcase
 
@@ -105,30 +109,16 @@ See in [documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENT
 <a target="blank" href="http://kikobeats.com"><img src="http://i.imgur.com/crE8jt2.png"></a>
 <a target="blank" href="http://www.evilsocket.net"><img src="http://i.imgur.com/qanAbQf.png"></a>
 <a target="blank" href="http://pupboss.com"><img src="http://i.imgur.com/0AeVKgB.png"></a>
-<a target="blank" href="http://www.flaviocorpa.com"><img src="http://i.imgur.com/1ESq2xs.png" /></a>
-<a target="blank" href="http://morris.guru"><img src="http://i.imgur.com/s9oimfG.png" /></a>
-<a target="blank" href="https://www.mooash.me"><img src="http://i.imgur.com/Ojmkuvw.png" /></a>
-<a target="blank" href="http://adrianperez.org"><img src="http://i.imgur.com/XlNFWWA.png" /></a>
-<a target="blank" href="http://www.bradenericson.com"><img src="http://i.imgur.com/8wz0LKN.png" /></a>
-<a target="blank" href="https://blog.h4t0n.com"><img src="http://i.imgur.com/GPWzqnG.png" /></a>
 <a target="blank" href="http://robinz.in"><img src="http://i.imgur.com/qDAbrch.jpg" /></a>
-<a target="blank" href="http://biercoff.com"><img src="http://i.imgur.com/goS3pE3.jpg" /></a>
-<a target="blank" href="https://randy.sesser.me"><img src="http://i.imgur.com/9hacUJc.jpg" /></a>
-<a target="blank" href="http://dan.maharry.me.uk"><img src="http://i.imgur.com/gAeS9jQ.jpg" /></a>
-<a target="blank" href="https://ishcha.com"><img src="http://i.imgur.com/u9PGLZj.jpg" /></a>
-<a target="blank" href="http://maptime.io/milan"><img src="http://i.imgur.com/hd9tpzq.jpg" /></a>
-<a target="blank" href="http://xlbd.me"><img src="http://i.imgur.com/wiqVB9R.jpg" /></a>
-<a target="blank" href="http://blog.sujithvishwajith.com"><img src="http://i.imgur.com/eol02YK.jpg" /></a>
-<a target="blank" href="https://carlbernardo.github.io"><img src="http://i.imgur.com/dihIo6Q.jpg" /></a>
-<a target="blank" href="http://olddonkey.com"><img src="http://i.imgur.com/wa4kwnZ.jpg" /></a>
-<a target="blank" href="http://mohammedovich.com"><img src="http://i.imgur.com/oiKFBG2.jpg" /></a>
-<a target="blank" href="http://blog.sysbase.org"><img src="http://i.imgur.com/DiPo76r.jpg" /></a>
-<a target="blank" href="http://yangshuan.cn"><img src="http://i.imgur.com/6ptrCIp.jpg" /></a>
 </br>
 </br>
+.. and many, many more. <a href="https://github.com/Kikobeats/uno-zen/blob/master/SHOWCASE.md">See all</a>!.
 </div>
 
-Do you want appear here? Please [add your blog](https://github.com/Kikobeats/uno-zen/issues/new?title=Add%20my%20blog%20into%20showcase&body=The%20URL%20of%20my%20blog%20is:%20)!
+
+## Related
+
+* [Bloggy](https://github.com/Kikobeats/bloggy#bloggy-for-ghost) – Branding theme for Ghost.
 
 ## License
 
