@@ -1,7 +1,47 @@
+<a name="2.7.0"></a>
+# 2.7.0 (2016-01-09)
+
+
+* Add 4ts.io blog as a showcase ([3e60322](https://github.com/kikobeats/uno-zen/commit/3e60322))
+* Add travis ([ef69dac](https://github.com/kikobeats/uno-zen/commit/ef69dac))
+* Add travis tests ([a09c269](https://github.com/kikobeats/uno-zen/commit/a09c269))
+* Delete unnecessary css ([c7b5936](https://github.com/kikobeats/uno-zen/commit/c7b5936))
+* Little refactor ([349ff87](https://github.com/kikobeats/uno-zen/commit/349ff87))
+* Little refactor ([11a62e5](https://github.com/kikobeats/uno-zen/commit/11a62e5))
+* Merge pull request #164 from apolikamixitos/master ([0b3c5b1](https://github.com/kikobeats/uno-zen/commit/0b3c5b1))
+* Merge pull request #168 from waja/post_list_headline ([c43f0dc](https://github.com/kikobeats/uno-zen/commit/c43f0dc))
+* Replace the https with http of 4ts.io blog ([7d7bf0f](https://github.com/kikobeats/uno-zen/commit/7d7bf0f))
+* This makes the headline of the post list page customizable. ([e81896c](https://github.com/kikobeats/uno-zen/commit/e81896c)), closes [#166](https://github.com/kikobeats/uno-zen/issues/166)
+* Update README.md ([260960d](https://github.com/kikobeats/uno-zen/commit/260960d))
+* Update README.md ([a0b0185](https://github.com/kikobeats/uno-zen/commit/a0b0185))
+* Update showcase section ([4fceeab](https://github.com/kikobeats/uno-zen/commit/4fceeab))
+* Update SHOWCASE.md ([a48fb41](https://github.com/kikobeats/uno-zen/commit/a48fb41))
+* Update SHOWCASE.md ([108285f](https://github.com/kikobeats/uno-zen/commit/108285f))
+* Update SHOWCASE.md ([0727494](https://github.com/kikobeats/uno-zen/commit/0727494))
+
+
+
+<a name="2.6.10"></a>
+## 2.6.10 (2016-01-06)
+
+
+* 2.6.10 releases ([231370f](https://github.com/kikobeats/uno-zen/commit/231370f))
+* Add gulp-shortand dep ([3e46534](https://github.com/kikobeats/uno-zen/commit/3e46534))
+* Add Related section ([c35a0d3](https://github.com/kikobeats/uno-zen/commit/c35a0d3))
+* Add Setup section ([01073c1](https://github.com/kikobeats/uno-zen/commit/01073c1))
+* Adjust prism build ([7bdbdc6](https://github.com/kikobeats/uno-zen/commit/7bdbdc6))
+* Better JS minification ([c68fa03](https://github.com/kikobeats/uno-zen/commit/c68fa03))
+* Fix typo ([a6fedf8](https://github.com/kikobeats/uno-zen/commit/a6fedf8))
+* Refactor footer ([7219ada](https://github.com/kikobeats/uno-zen/commit/7219ada))
+* Remove unnecessary dependency ([3da45d5](https://github.com/kikobeats/uno-zen/commit/3da45d5))
+
+
+
 <a name="2.6.9"></a>
 ## 2.6.9 (2015-12-31)
 
 
+* 2.6.9 releases ([57f63f8](https://github.com/kikobeats/uno-zen/commit/57f63f8))
 * Add default static page template ([0d102d8](https://github.com/kikobeats/uno-zen/commit/0d102d8))
 * Added brief description of build.sh script. ([e6420f8](https://github.com/kikobeats/uno-zen/commit/e6420f8))
 * Added build script to create archive for usage with Ghost(pro). ([bb67bc5](https://github.com/kikobeats/uno-zen/commit/bb67bc5))
