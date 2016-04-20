@@ -49,12 +49,6 @@
     text-align: center;
   }
 
-  &.description {
-    margin-bottom: 1rem;
-    font-size: .9em;
-    color: $gray-dark;
-  }
-
   &.meta {
     margin: .7em 0;
     font-size: .85rem;
@@ -96,12 +90,13 @@
   }
 
   &.comments {
-    padding: 2rem 0 0 0;
+    padding: 2rem 0 0;
   }
 
   &.related {
+    line-height: 1;
     display: flex;
-    padding: 4rem 0 2rem 0;
+    padding: 4rem 0 2rem;
     justify-content: space-between;
   }
 }

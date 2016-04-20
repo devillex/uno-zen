@@ -7,6 +7,8 @@
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 > Minimalist and Elegant theme for Ghost.
+<br>
+> **NOTE**: Commercial version is available as [Uno Urban](https://sellfy.com/p/G5kK).
 
 [<img src="http://i.imgur.com/LCSB4Ca.jpg">](http://kikobeats.com)
 
@@ -26,7 +28,7 @@
 
 ## Introduction
 
-**Uno Zen** is a fork of [Uno for Ghost](https://github.com/daleanthony/Uno) that provides some features missing in the original theme.
+**Uno Zen** is a theme for Ghost inspired in [Uno](https://github.com/daleanthony/Uno) but providing a set of missing features in the original theme that are aligned with minimalist design style.
 
 ### Whats is new in 2.x
 
@@ -118,6 +120,7 @@ See in [Documentation](https://github.com/Kikobeats/uno-zen/blob/master/DOCUMENT
 
 ## Related
 
+* [Uno Urban](https://kikobeats.github.io/uno-urban) – Commercial version of Uno Zen.
 * [Bloggy](https://github.com/Kikobeats/bloggy#bloggy-for-ghost) – Brand theme for Ghost.
 
 ## License
